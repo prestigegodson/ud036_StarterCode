@@ -1,6 +1,6 @@
 # The Movie Trailer Website
 
-This project consists of server-side code to store a list of movies titles, along with its respective box art imagery and movie trailer website. The data should be served as a web page allowing visitors to review the movies and watch the trailers
+This project consists of server-side code to store a list of movies titles, along with its respective box art imagery and movie trailer website. 
 
 ## Getting Started
 
@@ -10,3 +10,5 @@ This project consists of server-side code to store a list of movies titles, alon
 ```
 python entertainment_center.py
 ```
+## Authur
+Ositadinma Tochukwu Godson
