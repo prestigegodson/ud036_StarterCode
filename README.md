@@ -5,6 +5,7 @@ This project consists of server-side code to store a list of movies titles, alon
 ## Getting Started
 
 * Install [python](http://www.python.org)
+* Navigate to project root
 * Run the entertainment_center.py module via terminal
 
 ```
