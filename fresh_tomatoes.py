@@ -56,6 +56,10 @@ main_page_head = '''
             top: 0;
             background-color: white;
         }
+
+        footer {
+            color : #586069;
+        }
     </style>
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
@@ -111,9 +115,15 @@ main_page_content = '''
           </div>
         </div>
       </div>
+      <div class="page-header">
+            <h1>Latest Movies</h1>
+      </div>
     </div>
     <div class="container">
       {movie_tiles}
+    </div>
+    <div class="container" style="margin-top:50px; border-top : 1px #e1e4e8 solid; padding-top : 5px">
+        <footer>&copy; 2017 Godson</footer>
     </div>
   </body>
 </html>
