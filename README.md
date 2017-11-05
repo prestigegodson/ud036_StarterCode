@@ -10,5 +10,5 @@ This project consists of server-side code to store a list of movies titles, alon
 ```
 python entertainment_center.py
 ```
-## Authur
+## Author
 Ositadinma Tochukwu Godson
